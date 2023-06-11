@@ -1,2 +1,2 @@
 # CNE350Midterm
-Repository for my RESTful DB Zipcode Project
+<p>Restful interface that has search and update options for navigating a database of U.S. zipcodes on Phpmyadmin. <br>(Thank you to Celine for helping me with formatting and troubleshooting of the code!)</p>
